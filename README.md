@@ -59,4 +59,5 @@
 - مجتمعات المبرمجين عبر الإنترنت
 - منصات التعلم الإلكتروني
 - مكتبات Python العلمية
-[![Scientific Computing Certification](صورة الشهادة)](رابط صفحة الشهادة)
+# الشهادة التي تحصل عليها:
+[![Scientific Computing Certification](certification-python.png)](https://www.freecodecamp.org/certification/DjaafarLecheheb/scientific-computing-with-python-v7)
